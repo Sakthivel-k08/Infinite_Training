@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single Element</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<style>
+    li{
+        padding: 3px;
+    }
+    button{
+        background-color: rgb(1, 73, 241);
+        color: white;
+        border: 1px solid;  
+        border-radius: 4px;
+        height: 35px;
+    }
+</style>
+<body>
+    <h2>Get a Single Element</h2>
+    <ul> 
+        <li>CSHARP</li> 
+        <li>SQL</li> 
+        <li>ADO</li> 
+    </ul>
+    <input type="number" id="indexInput"> 
+    <button id="getItem">Get Item</button> 
+    <p id="result"></p>
+    <script>
+        $(function() { 
+        $("#getItem").click(function() { 
+          var i = $("#indexInput").val(); 
+          var item = $("li").eq(i); 
+         if(item.length){ 
+            $("#result").text(item.text()); 
+         } 
+         else { 
+            $("#result").text("No item found"); 
+        } 
+      }); 
+  });
+    </script>
+</body>
+</html>

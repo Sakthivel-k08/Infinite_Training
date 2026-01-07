@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sakthivelk\\Documents\\Training\\Products\\ProductsView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEB9914-2DC4-4BEB-8309-2DA6F05AF037}|ProductsView\\ProductsView.csproj|c:\\users\\sakthivelk\\documents\\training\\products\\productsview\\productsview\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEB9914-2DC4-4BEB-8309-2DA6F05AF037}|ProductsView\\ProductsView.csproj|solutionrelative:productsview\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEB9914-2DC4-4BEB-8309-2DA6F05AF037}|ProductsView\\ProductsView.csproj|C:\\Users\\sakthivelk\\Documents\\Training\\Products\\ProductsView\\productsview\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8CEB9914-2DC4-4BEB-8309-2DA6F05AF037}|ProductsView\\ProductsView.csproj|solutionrelative:productsview\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\Training\\Products\\ProductsView\\ProductsView\\Default.aspx",
+              "RelativeDocumentMoniker": "ProductsView\\Default.aspx",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\Training\\Products\\ProductsView\\ProductsView\\Default.aspx",
+              "RelativeToolTip": "ProductsView\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T09:46:30.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\Training\\Products\\ProductsView\\ProductsView\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ProductsView\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\Training\\Products\\ProductsView\\ProductsView\\Default.aspx.cs*",
+              "RelativeToolTip": "ProductsView\\Default.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:45:50.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
