@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\viewbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\viewbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\models\\elecrticityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\models\\elecrticityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\dal\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\dal\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\addbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\addbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\viewbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\viewbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\models\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\models\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\addbill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\addbill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|c:\\users\\sakthivelk\\documents\\miniproject\\miniproject\\miniproject\\viewbill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4BE9C2-3BCD-4F50-A311-D9C4AB58365B}|miniProject\\miniProject.csproj|solutionrelative:miniproject\\viewbill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Site.Master.designer.cs",
+              "RelativeDocumentMoniker": "miniProject\\Site.Master.designer.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Site.Master.designer.cs",
+              "RelativeToolTip": "miniProject\\Site.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:43:25.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Site.Master.cs",
+              "RelativeDocumentMoniker": "miniProject\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Site.Master.cs",
+              "RelativeToolTip": "miniProject\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:31:34.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "miniProject\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Login.aspx.designer.cs",
+              "RelativeToolTip": "miniProject\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:11:42.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Site.Master",
+              "RelativeDocumentMoniker": "miniProject\\Site.Master",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Site.Master",
+              "RelativeToolTip": "miniProject\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T17:43:48.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\DAL\\DBHandler.cs",
+              "RelativeDocumentMoniker": "miniProject\\DAL\\DBHandler.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\DAL\\DBHandler.cs",
+              "RelativeToolTip": "miniProject\\DAL\\DBHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:40:11.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewBill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\ViewBill.aspx.cs",
+              "RelativeDocumentMoniker": "miniProject\\ViewBill.aspx.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\ViewBill.aspx.cs",
+              "RelativeToolTip": "miniProject\\ViewBill.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:34:55.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\AddBill.aspx.cs",
+              "RelativeDocumentMoniker": "miniProject\\AddBill.aspx.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\AddBill.aspx.cs",
+              "RelativeToolTip": "miniProject\\AddBill.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:34:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Login.aspx",
+              "RelativeDocumentMoniker": "miniProject\\Login.aspx",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Login.aspx",
+              "RelativeToolTip": "miniProject\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T17:32:08.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddBill.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\AddBill.aspx.designer.cs",
+              "RelativeDocumentMoniker": "miniProject\\AddBill.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\AddBill.aspx.designer.cs",
+              "RelativeToolTip": "miniProject\\AddBill.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:16:33.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Web.config",
+              "RelativeDocumentMoniker": "miniProject\\Web.config",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Web.config",
+              "RelativeToolTip": "miniProject\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-07T17:29:34.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewBill.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\ViewBill.aspx.designer.cs",
+              "RelativeDocumentMoniker": "miniProject\\ViewBill.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\ViewBill.aspx.designer.cs",
+              "RelativeToolTip": "miniProject\\ViewBill.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:22:00.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "miniProject\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Login.aspx.cs",
+              "RelativeToolTip": "miniProject\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:32:47.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewBill.aspx",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\ViewBill.aspx",
+              "RelativeDocumentMoniker": "miniProject\\ViewBill.aspx",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\ViewBill.aspx",
+              "RelativeToolTip": "miniProject\\ViewBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T17:31:43.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBill.aspx",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\AddBill.aspx",
+              "RelativeDocumentMoniker": "miniProject\\AddBill.aspx",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\AddBill.aspx",
+              "RelativeToolTip": "miniProject\\AddBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T17:31:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Styles\\style.css",
+              "RelativeDocumentMoniker": "miniProject\\Styles\\style.css",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Styles\\style.css*",
+              "RelativeToolTip": "miniProject\\Styles\\style.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-07T17:29:16.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElecrticityBoard.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Models\\ElecrticityBoard.cs",
+              "RelativeDocumentMoniker": "miniProject\\Models\\ElecrticityBoard.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Models\\ElecrticityBoard.cs",
+              "RelativeToolTip": "miniProject\\Models\\ElecrticityBoard.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:28:14.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Models\\BillValidator.cs",
+              "RelativeDocumentMoniker": "miniProject\\Models\\BillValidator.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Models\\BillValidator.cs",
+              "RelativeToolTip": "miniProject\\Models\\BillValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:27:55.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Models\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "miniProject\\Models\\ElectricityBill.cs",
+              "ToolTip": "C:\\Users\\sakthivelk\\Documents\\MiniProject\\miniProject\\miniProject\\Models\\ElectricityBill.cs",
+              "RelativeToolTip": "miniProject\\Models\\ElectricityBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:27:35.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
