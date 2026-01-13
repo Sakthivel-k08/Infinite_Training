@@ -1,0 +1,39 @@
+﻿@model  IEnumerable<Application_1.Models.Customer>
+
+@{
+    ViewBag.Title = "Customers in Germany";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card">
+    <h1>Customers in Germany <span class="badge">@Model.Count()</span></h1>
+    @if (!Model.Any())
+    {
+        <p class="muted">No customers found in Germany.</p>
+    }
+    else
+    {
+        <table>
+            <thead>
+                <tr>
+                    <th>Company</th>
+                    <th>Contact</th>
+                    <th>City</th>
+                    <th>Phone</th>
+                    <th>Customer ID</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var c in Model)
+                {
+                    <tr>
+                        <td>@c.CompanyName</td>
+                        <td>@c.ContactName</td>
+                        <td>@c.City</td>
+                        <td>@c.Phone</td>
+                        <td>@c.CustomerID</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

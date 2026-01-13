@@ -1,0 +1,47 @@
+﻿@model IEnumerable<MoviesApp.Models.Movie>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movies</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h2>Movies List</h2>
+
+        <form method="get" action="/Movies/ByYear" class="form-inline">
+            <input type="number" name="year" placeholder="Enter Year" class="form-control" />
+            <button type="submit" class="btn btn-primary">Search by Year</button>
+        </form>
+
+        <form method="get" action="/Movies/ByDirector" class="form-inline" style="margin-top:10px;">
+            <input type="text" name="directorName" placeholder="Enter Director Name" class="form-control" />
+            <button type="submit" class="btn btn-success">Search by Director</button>
+        </form>
+
+        <hr />
+
+        <table class="table table-bordered table-striped">
+            <tr>
+                <th>ID</th>
+                <th>Movie Name</th>
+                <th>Director</th>
+                <th>Date of Release</th>
+            </tr>
+            @foreach (var movie in Model)
+            {
+                <tr>
+                    <td>@movie.Mid</td>
+                    <td>@movie.Moviename</td>
+                    <td>@movie.DirectorName</td>
+                    <td>@movie.DateofRelease.ToShortDateString()</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

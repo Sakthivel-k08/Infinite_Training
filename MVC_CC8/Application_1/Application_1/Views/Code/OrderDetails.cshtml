@@ -1,0 +1,36 @@
+﻿@model Application_1.Models.Order
+@{
+    ViewBag.Title = "Order Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card">
+    <h1>Order @Model.OrderID</h1>
+    <div class="grid">
+        <div>
+            <div class="kv">
+                <div class="key">Order ID</div><div>@Model.OrderID</div>
+                <div class="key">Customer ID</div><div>@Model.CustomerID</div>
+                <div class="key">Order Date</div><div>@(Model.OrderDate?.ToShortDateString() ?? "-")</div>
+                <div class="key">Required Date</div><div>@(Model.RequiredDate?.ToShortDateString() ?? "-")</div>
+                <div class="key">Shipped Date</div><div>@(Model.ShippedDate?.ToShortDateString() ?? "-")</div>
+                <div class="key">Freight</div><div>@(Model.Freight.HasValue ? Model.Freight.Value.ToString("0.00") : "-")</div>
+            </div>
+        </div>
+        <div>
+            <div class="kv">
+                <div class="key">Ship Name</div><div>@Model.ShipName</div>
+                <div class="key">Ship Address</div><div>@Model.ShipAddress</div>
+                <div class="key">Ship City</div><div>@Model.ShipCity</div>
+                <div class="key">Ship Region</div><div>@Model.ShipRegion</div>
+                <div class="key">Ship Postal Code</div><div>@Model.ShipPostalCode</div>
+                <div class="key">Ship Country</div><div>@Model.ShipCountry</div>
+            </div>
+        </div>
+    </div>
+
+    @* Optional: show customer company name if navigation property exists *@
+    @if (Model.Customer != null)
+    {
+        <p class="muted" style="margin-top:12px;">Customer: @Model.Customer.CompanyName (@Model.Customer.ContactName)</p>
+    }
+</div>
