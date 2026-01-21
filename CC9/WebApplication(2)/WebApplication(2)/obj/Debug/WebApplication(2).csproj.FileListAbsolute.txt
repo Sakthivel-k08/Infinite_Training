@@ -1,0 +1,2 @@
+C:\Users\sakthivelk\Documents\Training\Jan21\CC9\WebApplication(2)\WebApplication(2)\obj\Debug\WebApplication(2).csproj.AssemblyReference.cache
+C:\Users\sakthivelk\Documents\Training\Jan21\CC9\WebApplication(2)\WebApplication(2)\obj\Debug\WebApplication(2).csproj.CoreCompileInputs.cache

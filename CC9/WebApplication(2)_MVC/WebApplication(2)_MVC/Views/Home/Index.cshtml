@@ -1,0 +1,14 @@
+﻿@model List<WebApplication_2__MVC.Models.OrderViewModel>
+
+<table class="table">
+    <tr><th>OrderID</th><th>CustomerID</th><th>OrderDate</th><th>ShipCity</th></tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.OrderID</td>
+            <td>@item.CustomerID</td>
+            <td>@item.OrderDate</td>
+            <td>@item.ShipCity</td>
+        </tr>
+    }
+</table>
